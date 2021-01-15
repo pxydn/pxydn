@@ -7,4 +7,4 @@ internet privacy & security backer
 - 🔭 creator of [@soliid](github.com/soliid)
 - 🌱 learning cloud engineering/architecture & .NET 5.0
 - 💬 ask me about bitcoin, blockchain, cloud tech, ai and security
-- 📫 how to reach me: email me (on my profile), dm me on twitter or telegram (@xelamade), 
+- 📫 how to reach me: [email](mailto:xelamade@protonmail.com), [twitter](twitter.com/xelamade) or [telegram](t.me/xelamade), 
