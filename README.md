@@ -4,7 +4,7 @@ i'm xela, a fullstack developer using .NET 5.0. i speak c#, python, js, swift, t
 
 internet privacy & security backer
 
-- 🔭 creator of [@soliid](github.com/soliid)
+- 🔭 creator of [@soliid](soliid)
 - 🌱 learning cloud engineering/architecture & .NET 5.0
 - 💬 ask me about bitcoin, blockchain, cloud tech, ai and security
-- 📫 how to reach me: [email](mailto:xelamade@protonmail.com), [twitter](twitter.com/xelamade) or [telegram](t.me/xelamade), 
+- 📫 how to reach me: [email](mailto:xelamade@protonmail.com), [twitter](https://twitter.com/xelamade) or [telegram](https://t.me/xelamade), 
