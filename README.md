@@ -2,7 +2,7 @@
 
 i'm a fullstack developer building mostly in decentralised apps, Bitcoin, Stacks and AI. i speak c#, python, js, swift, typescript but mostly work in JS & TS
 
-i'm currently working on open-source software @ Ueco Labs that uses the Stacks 2.0 blockchain.
+i'm currently working on open-source software @ ueco labs that uses the Stacks 2.0 blockchain.
 
 internet privacy & security backer
 
