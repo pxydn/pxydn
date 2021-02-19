@@ -8,6 +8,6 @@ internet privacy & security backer
 
 📫 how to reach me: [email](mailto:pxydn@protonmail.com), [twitter](https://twitter.com/pxydn) or [telegram](https://t.me/pxydn), 
 
-pgp key id CA30DDF9
+pgp key id A303BCFECA30DDF9
 
 `poseidon`
