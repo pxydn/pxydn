@@ -6,7 +6,6 @@ i'm currently working on open-source software @ ueco labs that uses the Stacks 2
 
 internet privacy & security backer
 
-- 🔭 founder of [@mtavrse](https://github.com/mtavrse)
-- 📫 how to reach me: [email](mailto:xelamade@protonmail.com), [twitter](https://twitter.com/xelamade) or [telegram](https://t.me/xelamade), 
+📫 how to reach me: [email](mailto:xelamade@protonmail.com), [twitter](https://twitter.com/xelamade) or [telegram](https://t.me/xelamade), 
 
 my PGP pub key is listed below - please encrypt all emails to me.
