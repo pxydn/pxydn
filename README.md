@@ -10,4 +10,4 @@ internet privacy & security backer
 
 pgp key id A303BCFECA30DDF9
 
-`poseidon`
+`pxydn | poseidon | pəˈsaɪdən` 
