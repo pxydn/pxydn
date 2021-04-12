@@ -21,6 +21,6 @@ internet privacy & security backer
 
 📫 how to reach me: [email](mailto:pxydn@protonmail.com), [twitter](https://twitter.com/pxydn) or [telegram](https://t.me/pxydn), 
 
-pgp key id A303BCFECA30DDF9
-
-`pxydn | poseidon | pəˈsaɪdən` 
+![Alt text](header.png "a title")
+---
+`pxydn | poseidon | pəˈsaɪdən | A303 BCFE CA30 DDF9` 
