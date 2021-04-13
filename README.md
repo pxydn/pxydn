@@ -1,4 +1,4 @@
-![Alt text](header.png "a title")
+![Alt text](headerupdated.png "a title")
 
 ### hi there 👋
 
