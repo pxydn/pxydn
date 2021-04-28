@@ -2,9 +2,10 @@
 
 ### hi there 👋
 
-i'm a fullstack developer building mostly in decentralised apps, Bitcoin, Stacks and AI. i speak c#, python, js, swift, typescript but mostly work in JS & TS
+i'm a developer/designer and i primarily build decentralised apps, protocols & smart contracts. i mostly work in typescript & clarity. 
 
-i'm currently working on web3 software [@labs3](https://github.com/labs3) that uses the Stacks 2.0 blockchain.
+- currently working on web3 software [@labs3](https://github.com/labs3) that uses the Stacks 2.0 blockchain.
+- fan of infrastructure design and build a lot on backend
 
 ### roadmap
 
