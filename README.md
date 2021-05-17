@@ -4,19 +4,18 @@
 
 i'm a developer/designer and i primarily build decentralised apps, protocols & smart contracts. i mostly work in typescript & clarity. 
 
-- currently working on web3 software [@syvita](https://github.com/syvita) that uses the Stacks 2.0 blockchain.
-- fan of infrastructure design and build a lot on backend
+currently working on web3 software [@syvita](https://github.com/syvita) that uses the Stacks 2.0 blockchain.
 
 ### roadmap
 
 - [x] [Nothing](https://github.com/syvita/nothing) — first (meme) fungible token on Stacks | Q1 2021
-- [ ] [pool](https://github.com/syvita/pool) — stx mining pool | Q2 2021 |  **in progress**
-- [ ] [mixer](https://github.com/syvita/mixer) — stx mixer/tumbler | Q3 2021
-- [ ] NFT token ICO | Q3 2021
+- [ ] [Sypool](https://github.com/syvita/sypool) — stx mining pool | Q2 2021 |  **in progress**
+- [ ] [CityStacks](https://github.com/citycoins) - yielding fungible tokens using PoX on Stacks (more coming soon) | BTC21 |  **in progress**
+- [ ] [Mixer](https://github.com/syvita/mixer) — stx mixer/tumbler | Q3 2021
 - [ ] [DDNS](https://github.com/syvita/ddns) — decentralised domain name service | Q4 2021
-- [ ] NFC crypto payments | Q4 2021
-- [ ] [metaverse](https://github.com/syvita/node) — social network on Stacks | Q1 2022
-- [ ] [exchange](https://github.com/syvita/exchange) — decentralised exchange built into metaverse | Q2 2023
+- [ ] NFC/contactless crypto payment protocol | Q4 2021
+- [ ] [Metaverse](https://github.com/syvita/node) — social network on Stacks | Q1 2022
+- [ ] [Exchange](https://github.com/syvita/exchange) — decentralised exchange built into metaverse | Q2 2023
 
 internet privacy & security backer
 
@@ -24,4 +23,4 @@ internet privacy & security backer
 
 ![Alt text](footer.png "a title")
 ---
-`pxydn | poseidon | pəˈsaɪdən | A303 BCFE CA30 DDF9` 
+`Asteria | "there was nothing to fear, nothing to doubt" | PGP A303BCFECA30DDF9` 
