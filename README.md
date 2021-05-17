@@ -1,8 +1,8 @@
 ![Alt text](headerupdated.png "a title")
 
-## hi there 👋
+# hi there 👋
 
-i'm a developer/designer and i primarily build decentralised apps, protocols & smart contracts. i mostly work in typescript & clarity. 
+i'm a developer/designer and i primarily build decentralised apps, protocols & smart contracts. i mostly work in typescript & clarity.
 
 currently working on web3 software [@syvita](https://github.com/syvita) that uses the Stacks 2.0 blockchain.
 
