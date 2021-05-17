@@ -1,6 +1,6 @@
 ![Alt text](headerupdated.png "a title")
 
-### hi there 👋
+## hi there 👋
 
 i'm a developer/designer and i primarily build decentralised apps, protocols & smart contracts. i mostly work in typescript & clarity. 
 
