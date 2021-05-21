@@ -23,4 +23,4 @@ internet privacy & security backer
 
 ![Alt text](footer.png "a title")
 ---
-`Asteria | "there was nothing to fear, nothing to doubt" | PGP A303BCFECA30DDF9` 
+`Asteria | "there was nothing to fear, nothing to doubt" | PGP CA30DDF9` 
