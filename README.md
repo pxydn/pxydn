@@ -9,8 +9,8 @@ currently working on web3 software [@syvita](https://github.com/syvita) that use
 ### roadmap
 
 - [x] [Nothing](https://github.com/syvita/nothing) — first (meme) fungible token on Stacks | Q1 2021
+- [x] [CityCoins](https://github.com/citycoins) - yielding fungible tokens using PoX on Stacks (more coming soon) | BTC21 |  **$MIA mainnet launch @ 3 PM EST Jun 8**
 - [ ] [Sypool](https://github.com/syvita/sypool) — stx mining pool | Q2 2021 |  **development in progress**
-- [ ] [CityCoins](https://github.com/citycoins) - yielding fungible tokens using PoX on Stacks (more coming soon) | BTC21 |  **development in progress**
 - [ ] [HYPRDRIIV](https://github.com/hyprdriiv) — a next-gen Internet protocol for the decentralised web | Q3-4 2021 |  **whitepaper is being written**
 - [ ] [Mixer](https://github.com/syvita/mixer) — stx mixer/tumbler | Q3 2021
 - [ ] NFC/contactless crypto payment protocol | Q4 2021
