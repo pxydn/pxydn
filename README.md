@@ -18,7 +18,7 @@ currently working on web3 software [@syvita](https://github.com/syvita) that use
 
 internet privacy & security backer
 
-📫 how to reach me: [email](mailto:asteria@syvita.org), [twitter](https://twitter.com/asteriabtc) or [telegram](https://t.me/asteriabtc), 
+📫 how to reach me: [email](mailto:asteria@syvita.org), [twitter](https://twitter.com/SyAsteria) or [telegram](https://t.me/SyAsteria), 
 
 ![Alt text](footer.png "a title")
 ---
