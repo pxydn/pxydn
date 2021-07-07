@@ -4,7 +4,7 @@
 
 I'm a backend dev & designer and i primarily build decentralised apps, protocols & smart contracts. I mostly work in Clarity & TS & founded Syvita
 
-I'm currently working Sypool [@Syvita](https://github.com/syvita) that use the Stacks 2.0 blockchain.
+I'm currently working on Sypool [@Syvita](https://github.com/syvita) that use the Stacks 2.0 blockchain.
 
 ### Roadmap 🛩
 
