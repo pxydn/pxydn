@@ -2,9 +2,9 @@
 
 # hi there 👋
 
-i'm a developer/designer and i primarily build decentralised apps, protocols & smart contracts. i mostly work in typescript & clarity.
+i'm a backend dev & designer and i primarily build decentralised apps, protocols & smart contracts. i mostly work in clarity & ts & founded Syvita
 
-currently working on web3 software [@syvita](https://github.com/syvita) that uses the Stacks 2.0 blockchain.
+currently working on web3 things [@syvita](https://github.com/syvita) that use the Stacks 2.0 blockchain.
 
 ### roadmap
 
