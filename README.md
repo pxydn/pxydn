@@ -1,6 +1,6 @@
 ![Alt text](headerupdated.png "a title")
 
-## Hey there! 👋
+### Hey there! 👋
 
 I'm a backend dev & designer and i primarily build decentralised apps, protocols & smart contracts. I mostly work in Clarity & TS & founded Syvita
 
